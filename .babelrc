@@ -1,0 +1,15 @@
+{
+  "plugins": ["@babel/plugin-syntax-dynamic-import", "@babel/plugin-proposal-object-rest-spread", "@babel/plugin-proposal-class-properties"],
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "browsers": "last 2 chrome versions"
+        }
+      }
+    ],
+    "@babel/preset-react"
+  ],
+  "compact": false
+}
