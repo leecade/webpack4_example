@@ -1,5 +1,7 @@
 # webpack4 + babel7 demo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/leecade/webpack4_example.svg)](https://greenkeeper.io/)
+
 Follow to taste new webpack v4 which has been released today.
 
 ## includes
